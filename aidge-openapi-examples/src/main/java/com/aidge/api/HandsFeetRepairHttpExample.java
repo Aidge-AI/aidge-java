@@ -68,7 +68,7 @@ public class HandsFeetRepairHttpExample {
         JSONArray params = new JSONArray()
                 .put(new JSONObject()
                         .put("area", "hand")
-                        .put("imageUrl", "http://aibz-aigc-record.oss-ap-southeast-1.aliyuncs.com/skin_repaint_result%2Faa0d0023ea46464ebff4cda31ffcc312_20250124144712.png?OSSAccessKeyId=LTAI5tAGoBnm5eYsnZ5E1zMr&Expires=2737701232&Signature=kFfey2VgD%2FCxUUqHgdMJwdQyeFQ%3D")
+                        .put("imageUrl", "your imageUrl")
                         .put("imgNum", 2)
                         .put("requestBizId", ""));
 
